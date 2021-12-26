@@ -8,6 +8,12 @@ The time now is <t:1640941200:F>!
 31st Dec 2021 1800 hrs GMT +8
 CHOO CHOO! :bullettrain_front: 
 The New Year train has arrived at its first station!
-Happy New Year to the people in **Kiritimati**! :partying_face: :flag_ki:
+Happy New Year to the people in **Kiritimati**! (GMT +14) :partying_face: :flag_ki:
 The time now is <t:1640944800:F>!
+
+31st Dec 2021 1900 hrs GMT +8
+CHOO CHOO! :bullettrain_front: 
+The New Year train has arrived at the next station!
+Happy New Year to the people in **Auckland**! (GMT +13) :partying_face: :flag_nz:
+The time now is <t:1640948400:F>!
 
