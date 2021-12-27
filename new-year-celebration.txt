@@ -38,6 +38,12 @@ The time now is <t:1640957400:F>!
 31st Dec 2021 2200 hrs GMT +8
 CHOO CHOO! :bullettrain_front: 
 The New Year train has arrived at the next station!
-Happy New Year to the people in **Brisbane** & **Darwin**! (GMT +10) :partying_face: :flag_au:
+Happy New Year to the people in **Brisbane**! (GMT +10) :partying_face: :flag_au:
 The time now is <t:1640959200:F>!
+
+31st Dec 2021 2230 hrs GMT +8
+CHOO CHOO! :bullettrain_front: 
+The New Year train has arrived at the next station!
+Happy New Year to the people in **Darwin**! (GMT +9:30) :partying_face: :flag_au:
+The time now is <t:1640961000:F>!
 
