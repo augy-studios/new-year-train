@@ -138,7 +138,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 13th stop: **UTC +6:30**
 ## 🕠 Current UTC time: 5:30 PM (December 31)
 
-📣 Happy new year to those who live in:
+### 📣 Happy new year to those who live in:
 - Cocos Islands 🇨🇨
 - Myanmar 🇲🇲
 
@@ -208,7 +208,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 20th stop **UTC +3:30**
 ## 🕣 Current UTC time: 8:30 PM (December 31)
 
-📣 Happy new year to those who live in:
+### 📣 Happy new year to those who live in:
 - Iran 🇮🇷
 
 
