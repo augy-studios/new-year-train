@@ -1,0 +1,535 @@
+Data taken from https://time.is/time_zones & https://www.timeanddate.com - there are chances for mistakes but I tried to minimize it by verifying from 2 sources.
+This template works with Telegram's text formatting, as of 18th Jan 2024.
+
+
+-=-=-=-
+The New Years' 2025 Train will be arriving at the first stop in an hour! 🥳 
+Fasten your seat belts and enjoy the ride!
+-=-=-=-
+
+
+🎉 1st stop: **UTC +14**
+🕙 **Current UTC time:** 10 AM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Line Islands (Kiribati) 🇰🇮
+
+
+🎉 2nd stop: **UTC +13:45**
+🕥 **Current UTC time:** 10:15 AM (December 31)
+
+📣 **Happy New Year to those who live in:** 
+- Chatham (New Zealand) 🇳🇿
+
+
+🎉 3rd stop: **UTC +13**
+🕚 **Current UTC time:** 11 AM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Auckland & Wellington (New Zealand) 🇳🇿
+- Samoa 🇼🇸
+- Tokelau & Tonga 🇹🇰
+
+
+🎉 4th stop: **UTC +12**
+🕛 **Current UTC time:** 12 NN (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Fiji 🇫🇯
+- Tarawa (Kiribati) 🇰🇮
+- Marshall Islands 🇲🇭
+- Nauru 🇳🇷
+- Norfolk Island 🇳🇫
+- Petropavlovsk-Kamchatsky (Russia) 🇷🇺
+- Tuvalu 🇹🇻
+- Wake Island (U.S. Outlying Islands) 🇺🇲
+- Wallis and Futuna 🇼🇫
+
+
+🎉 5th stop: **UTC +11**
+🕐 **Current UTC time:** 1 PM (December 31)
+
+📣 **Happy New Year to those who live in:** 
+- Sydney (Australia) 🇦🇺
+- Tofol (Micronesia) 🇫🇲
+- New Caledonia 🇳🇨
+- Yuzhno-Sakhalinsk (Russia) 🇷🇺
+- Solomon Islands 🇸🇧
+- Vanuatu 🇻🇺
+
+
+🎉 6th stop: **UTC +10:30**
+🕧 **Current UTC time:** 1:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Adelaide (Australia) 🇦🇺
+
+
+🎉 7th stop: **UTC +10**
+🕑 **Current UTC time:** 2 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Brisbane (Australia) 🇦🇺
+- Guam 🇬🇺
+- Weno (Micronesia) 🇫🇲
+- North Mariana Islands 🇲🇵
+- Lae & Port Moresby (Papua New Guinea) 🇵🇬
+- Vladivostok (Russia) 🇷🇺
+
+
+🎉 8th stop: **UTC +9:30**
+🕝 **Current UTC time:** 2:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Darwin (Australia) 🇦🇺
+
+
+🎉 9th stop: **UTC +9**
+🕒 **Current UTC time:** 3 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Manokwari (Indonesia) 🇮🇩
+- Japan 🇯🇵
+- North Korea 🇰🇵
+- Chita (Russia) 🇷🇺
+- Timor-leste 🇹🇱
+- South Korea 🇰🇷
+
+
+🎉 10th stop: **UTC +8:45**
+🕞 **Current UTC time:** 3:15 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Eucla (Australia) 🇦🇺
+
+
+🎉 11th stop: **UTC +8**
+🕓 **Current UTC time:** 4 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Perth (Australia) 🇦🇺
+- Brunei 🇧🇳
+- China 🇨🇳
+- Hong Kong 🇭🇰
+- Makassar (Indonesia) 🇮🇩
+- Macau 🇲🇴
+- Malaysia 🇲🇾
+- Choibalsan (Mongolia) 🇲🇳
+- Philippines 🇵🇭
+- Irkutsk (Russia) 🇷🇺
+- Singapore 🇸🇬
+- Taiwan 🇹🇼
+
+
+🎉 12th stop: **UTC +7**
+🕔 **Current UTC time:** 5 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Cambodia 🇰🇭
+- Christmas Island 🇨🇽
+- Jakarta (Indonesia) 🇮🇩
+- Laos 🇱🇦
+- Khovd (Mongolia) 🇲🇳
+- Novosibirsk (Russia) 🇷🇺
+- Thailand 🇹🇭
+- Vietnam 🇻🇳
+
+
+🎉 13th stop: **UTC +6:30**
+🕠 **Current UTC time:** 5:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Cocos Islands 🇨🇨
+- Myanmar 🇲🇲
+
+
+🎉 14th stop: **UTC +6**
+🕕 **Current UTC time:** 6 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Bangladesh 🇧🇩
+- Bhutan 🇧🇹
+- British Indian Ocean Territory 🇮🇴
+- Almaty (Kazakhstan) 🇰🇿
+- Kyrgyzstan 🇰🇬
+- Omsk (Russia) 🇷🇺
+
+
+🎉 15th stop: **UTC +5:45**
+🕡 **Current UTC time:** 6:15 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Nepal 🇳🇵
+
+
+🎉 16th stop: **UTC +5:30**
+🕡 **Current UTC time:** 6:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- India 🇮🇳
+- Sri Lanka 🇱🇰
+
+
+🎉 17th stop: **UTC +5**
+🕖 **Current UTC time:** 7 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Kyzylorda (Kazakhstan) 🇰🇿
+- Maldives 🇲🇻
+- Pakistan 🇵🇰
+- Yekaterinburg (Russia) 🇷🇺
+- Tajikistan 🇹🇯
+- Turkmenistan 🇹🇲
+- Uzbekistan 🇺🇿
+
+
+🎉 18th stop: **UTC +4:30**
+🕢 **Current UTC time:** 7:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Afghanistan 🇦🇫
+
+
+🎉 19th stop: **UTC +4**
+🕗 **Current UTC time:** 8 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Armenia 🇦🇲
+- Azerbaijan 🇦🇿
+- Tbilisi (Georgia) 🇬🇪
+- Mauritius 🇲🇺
+- Oman 🇴🇲
+- Samara (Russia) 🇷🇺
+- Réunion 🇷🇪
+- Seychelles 🇸🇨
+- United Arab Emirates 🇦🇪
+
+
+🎉 20th stop: **UTC +3:30**
+🕣 **Current UTC time:** 8:30 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Iran 🇮🇷
+
+
+🎉 21st stop: **UTC +3**
+🕘 **Current UTC time:** 9 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Bahrain 🇧🇭
+- Belarus 🇧🇾
+- Comoros 🇰🇲
+- Djibouti 🇩🇯
+- Eritrea 🇪🇷
+- Ethiopia 🇪🇹
+- Iraq 🇮🇶
+- Jordan 🇯🇴
+- Kenya 🇰🇪
+- Kuwait 🇰🇼
+- Madagascar 🇲🇬
+- Mayotte 🇾🇹
+- Qatar 🇶🇦
+- Moscow (Russia) 🇷🇺
+- Saudi Arabia 🇸🇦
+- Somalia 🇸🇴
+- Syria 🇸🇾
+- Tanzania 🇹🇿
+- Turkey 🇹🇷
+- Uganda 🇺🇬
+- Donetsk (Ukraine) 🇺🇦
+- Yemen 🇾🇪
+
+
+🎉 22nd stop: **UTC +2**
+🕙 **Current UTC time:** 10 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Botswana 🇧🇼
+- Bulgaria 🇧🇬
+- Burundi 🇧🇮
+- Kisangani (Congo-Kinshasa) 🇨🇩
+- Cyprus 🇨🇾
+- Egypt 🇪🇬
+- Estonia 🇪🇪
+- Eswatini 🇸🇿
+- Finland 🇫🇮
+- Greece 🇬🇷
+- Israel 🇮🇱
+- Latvia 🇱🇻
+- Lebanon 🇱🇧
+- Lesotho 🇱🇸
+- Libya 🇱🇾
+- Lithuania 🇱🇹
+- Malawi 🇲🇼
+- Moldova 🇲🇩
+- Mozambique 🇲🇿
+- Namibia 🇳🇦
+- Palestine 🇵🇸
+- Romania 🇷🇴
+- Kaliningrad (Russia) 🇷🇺
+- Rwanda 🇷🇼
+- Johannesburg (South Africa) 🇿🇦
+- South Sudan 🇸🇸
+- Sudan 🇸🇩
+- Kyiv (Ukraine) 🇺🇦
+- Zambia 🇿🇲
+- Zimbabwe 🇿🇼
+- Åland Islands 🇦🇽
+
+
+🎉 23rd stop: **UTC +1**
+🕚 **Current UTC time:** 11 PM (December 31)
+
+📣 **Happy New Year to those who live in:**
+- Albania 🇦🇱
+- Algeria 🇩🇿
+- Andorra 🇦🇩
+- Angola 🇦🇴
+- Austria 🇦🇹
+- Belgium 🇧🇪
+- Benin 🇧🇯
+- Bosnia and Herzegovina 🇧🇦
+- Cameroon 🇨🇲
+- Central African Republic 🇨🇫
+- Chad 🇹🇩
+- Congo-Brazzaville 🇨🇬
+- Croatia 🇭🇷
+- Czechia 🇨🇿
+- Denmark 🇩🇰
+- Equatorial Guinea 🇬🇶
+- Paris (France) 🇫🇷
+- Gabon 🇬🇦
+- Germany 🇩🇪
+- Gibraltar 🇬🇮
+- Hungary 🇭🇺
+- Italy 🇮🇹
+- Kosovo 🇽🇰
+- Liechtenstein 🇱🇮
+- Luxembourg 🇱🇺
+- Malta 🇲🇹
+- Monaco 🇲🇨
+- Montenegro 🇲🇪
+- Morocco 🇲🇦
+- Amsterdam (Netherlands) 🇳🇱
+- Niger 🇳🇪
+- Nigeria 🇳🇬
+- North Macedonia 🇲🇰
+- Norway 🇳🇴
+- Poland 🇵🇱
+- San Marino 🇸🇲
+- Serbia 🇷🇸
+- Slovakia 🇸🇰
+- Slovenia 🇸🇮
+- Madrid (Spain) 🇪🇸
+- Sweden 🇸🇪
+- Switzerland 🇨🇭
+- Tunisia 🇹🇳
+- Vatican City 🇻🇦
+- Western Sahara 🇪🇭
+
+
+🎉 24th stop: **UTC ±0**
+🕛 **Current UTC time:** 12 MN (January 1)
+
+📣 **Happy New Year to those who live in:**
+- Burkina Faso 🇧🇫
+- Canary Islands 🇮🇨
+- Faroe Islands 🇫🇴
+- Ghana 🇬🇭
+- Danmarkshavn (Greenland) 🇬🇱
+- Guernsey 🇬🇬
+- Isle of Man 🇮🇲
+- Jersey 🇯🇪
+- Guinea 🇬🇳
+- Guinea-Bissau 🇬🇼
+- Iceland 🇮🇸
+- Ireland 🇮🇪
+- Ivory Coast 🇨🇮
+- Liberia 🇱🇷
+- Mali 🇲🇱
+- Mauritania 🇲🇷
+- Lisbon (Portugal) 🇵🇹
+- Saint Helena 🇸🇭
+- Senegal 🇸🇳
+- Sierra Leone 🇸🇱
+- São Tomé and Príncipe 🇸🇹
+- Gambia 🇬🇲
+- Togo 🇹🇬
+- United Kingdom 🇬🇧
+
+
+🎉 25th stop: **UTC -1**
+🕐 **Current UTC time:** 1 AM (January 1)
+
+📣 **Happy New Year to those who live in:**
+- Azores (Portugal) 🇵🇹
+- Cabo Verde 🇨🇻
+- Ittoqqortoormiit (Greenland) 🇬🇱
+
+
+🎉 26th stop: **UTC -2**
+🕑 **Current UTC time:** 2 AM (January 1)
+
+📣 **Happy New Year to those who live in:**
+- Fernando de Noronha (Brazil) 🇧🇷
+- South Georgia and the South Sandwich Islands 🇬🇸
+
+
+🎉 27th stop: **UTC -3**
+🕒 **Current UTC time:** 3 AM (January 1)
+
+📣 **Happy New Year to those who live in:**
+- Argentina 🇦🇷
+- São Paulo (Brazil) 🇧🇷
+- Santiago (Chile) 🇨🇱
+- Falkland Islands 🇫🇰
+- French Guiana 🇬🇫
+- Paraguay 🇵🇾
+- Saint Pierre and Miquelon 🇵🇲
+- Suriname 🇸🇷
+- Uruguay 🇺🇾
+
+
+🎉 28th stop: **UTC -3:30**
+🕞 **Current UTC time:** 3:30 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Newfoundland, St. John's (Canada) 🇨🇦
+- Saint Pierre and Miquelon 🇵🇲
+ 
+ 
+🎉 29th stop: **UTC -4**
+🕓 **Current UTC time:** 4 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Anguilla 🇦🇮
+- Antigua and Barbuda 🇦🇬
+- Aruba 🇦🇼
+- Barbados 🇧🇧
+- Bermuda 🇧🇲
+- Bolivia 🇧🇴
+- Manaus (Brazil) 🇧🇷
+- British Virgin Islands 🇻🇬
+- Halifax (Canada) 🇨🇦
+- Caribbean Netherlands 🇧🇶
+- Curaçao 🇨🇼
+- Dominica 🇩🇲
+- Dominican Republic 🇩🇴
+- Thule Air Base (Greenland) 🇬🇱
+- Grenada 🇬🇩
+- Guadeloupe 🇬🇵
+- Guyana 🇬🇾
+- Martinique 🇲🇶
+- Montserrat 🇲🇸
+- Puerto Rico 🇵🇷
+- Saint Barthélemy 🇧🇱
+- Saint Lucia 🇱🇨
+- Saint Martin 🇲🇫
+- Saint Kitts and Nevis 🇰🇳
+- Saint Vincent and the Grenadines 🇻🇨
+- Trinidad and Tobago 🇹🇹
+- U.S. Virgin Islands 🇻🇮
+- Venezuela 🇻🇪
+- Suriname 🇸🇷
+ 
+ 
+🎉 30th stop: **UTC -5**
+🕔 **Current UTC time:** 5 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Rio Branco (Brazil) 🇧🇷
+- Toronto (Canada) 🇨🇦
+- Ontario, Canada 🇨🇦
+- Cayman Islands 🇰🇾
+- Easter Island (Chile) 🇨🇱
+- Colombia 🇨🇴
+- Cuba 🇨🇺
+- Quito, Ecuador 🇪🇨
+- Cancún (Mexico) 🇲🇽
+- Panama 🇵🇦
+- Peru 🇵🇪
+- The Bahamas 🇧🇸
+- Turks and Caicos Islands 🇹🇨
+- Alabama [EST], Connecticut, Delaware, Florida [EST], Georgia, Indiana [EST], Kentucky [EST], Maine, Maryland, Massachusetts, Michigan [EST], New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee [EST], Vermont, Virginia, West Virginia (United States) 🇺🇸
+ 
+ 
+🎉 31st stop: **UTC -6**
+🕕 **Current UTC time:** 6 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Belize 🇧🇿
+- Winnipeg (Canada) 🇨🇦
+- Costa Rica 🇨🇷
+- Galapagos Islands (Ecuador) 🇪🇨
+- El Salvador 🇸🇻
+- Guatemala 🇬🇹
+- Honduras 🇭🇳
+- Mexico City (Mexico) 🇲🇽
+- Nicaragua 🇳🇮
+- Alabama [CST], Arkansas, Florida [CST] Illinois, Indiana [CST] Iowa, Kansas [CST], Kentucky [CST], Louisiana, Michigan [CST], Minnesota, Mississippi, Missouri, Nebraska [CST], North Dakota [CST], Oklahoma, South Dakota [CST], Tennessee [CST], Texas [CST], Wisconsin (United States) 🇺🇸
+ 
+ 
+🎉 32nd stop: **UTC -7**
+🕖 **Current UTC time:** 7 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- British Columbia [MST], Edmonton (Canada) 🇨🇦
+- Hermosillo (Mexico) 🇲🇽
+- Arizona, Colorado, Idaho [MST], Kansas [MST] Montana, Nebraska [MST], North Dakota [MST] New Mexico, South Dakota [MST], Texas [MST], Utah, Wyoming 🇺🇸
+ 
+ 
+🎉 33rd stop: **UTC -8**
+🕗 **Current UTC time:** 8 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- British Columbia [PST], Vancouver (Canada) 🇨🇦
+- Tijuana (Mexico) 🇲🇽
+- Pitcairn Islands 🇵🇳
+- California, Nevada [PST], Washington, Oregon [PST], Idaho [PST] (United States) 🇺🇸
+ 
+ 
+🎉 34th stop: **UTC -9**
+🕘 **Current UTC time:** 9 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Gambier Islands (French Polynesia) 🇵🇫
+- Alaska [AKST] (United States) 🇺🇸
+ 
+ 
+🎉 35th stop: **UTC -9:30**
+🕤 **Current UTC time:** 9:30 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Atuona (French Polynesia) 🇵🇫
+ 
+ 
+🎉 36th stop: **UTC -10**
+🕙 **Current UTC time:** 10 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Cook Islands 🇨🇰
+- Papeete (French Polynesia) 🇵🇫
+- Alaska [HST], Hawaii (United States) 🇺🇸
+ 
+ 
+🎉 37th stop: **UTC -11**
+🕚 **Current UTC time:** 11 AM (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- American Samoa 🇦🇸
+- Niue 🇳🇺
+- Midway (U.S. Outlying Islands) 🇺🇸
+ 
+ 
+🎉 38th stop: **UTC -12**
+🕛 **Current UTC time:** 12 NN (January 1)
+ 
+📣 **Happy New Year to those who live in:**
+- Baker Island (U.S. Outlying Islands) 🇺🇸
+
+
+-=-=-=-
+The New Year Train has arrived at the terminal station.
+Thank you for taking the train, and we will maybe see you again next year.
+
+Don't forget to take all of your bags, snacks and belongings! 🥳
