@@ -11,21 +11,21 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 1st stop: **UTC +14**
 ## 🕙 Current UTC time: 10 AM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Line Islands (Kiribati) 🇰🇮
 
 
 # 🎉 2nd stop: **UTC +13:45**
 ## 🕥 Current UTC time: 10:15 AM (December 31)
 
-### 📣 Happy new year to those who live in: 
+### 📣 Happy New Year to those who live in: 
 - Chatham (New Zealand) 🇳🇿
 
 
 # 🎉 3rd stop: **UTC +13**
 ## 🕚 Current UTC time: 11 AM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Auckland & Wellington (New Zealand) 🇳🇿
 - Samoa 🇼🇸
 - Tokelau & Tonga 🇹🇰
@@ -34,7 +34,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 4th stop: **UTC +12**
 ## 🕛 Current UTC time: 12 NN (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Fiji 🇫🇯
 - Tarawa (Kiribati) 🇰🇮
 - Marshall Islands 🇲🇭
@@ -49,7 +49,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 5th stop: **UTC +11**
 ## 🕐 Current UTC time: 1 PM (December 31)
 
-### 📣 Happy new year to those who live in: 
+### 📣 Happy New Year to those who live in: 
 - Sydney (Australia) 🇦🇺
 - Tofol (Micronesia) 🇫🇲
 - New Caledonia 🇳🇨
@@ -61,14 +61,14 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 6th stop: **UTC +10:30**
 ## 🕧 Current UTC time: 1:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Adelaide (Australia) 🇦🇺
 
 
 # 🎉 7th stop: **UTC +10**
 ## 🕑 Current UTC time: 2 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Brisbane (Australia) 🇦🇺
 - Guam 🇬🇺
 - Weno (Micronesia) 🇫🇲
@@ -80,14 +80,14 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 8th stop: **UTC +9:30**
 ## 🕝 Current UTC time: 2:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Darwin (Australia) 🇦🇺
 
 
 # 🎉 9th stop: **UTC +9**
 ## 🕒 Current UTC time: 3 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Manokwari (Indonesia) 🇮🇩
 - Japan 🇯🇵
 - North Korea 🇰🇵
@@ -99,14 +99,14 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 10th stop: **UTC +8:45**
 ## 🕞 Current UTC time: 3:15 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Eucla (Australia) 🇦🇺
 
 
 # 🎉 11th stop: **UTC +8**
 ## 🕓 Current UTC time: 4 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Perth (Australia) 🇦🇺
 - Brunei 🇧🇳
 - China 🇨🇳
@@ -124,7 +124,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 12th stop: **UTC +7**
 ## 🕔 Current UTC time: 5 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Cambodia 🇰🇭
 - Christmas Island 🇨🇽
 - Jakarta (Indonesia) 🇮🇩
@@ -138,7 +138,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 13th stop: **UTC +6:30**
 ## 🕠 Current UTC time: 5:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Cocos Islands 🇨🇨
 - Myanmar 🇲🇲
 
@@ -146,7 +146,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 14th stop: **UTC +6**
 ## 🕕 Current UTC time: 6 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Bangladesh 🇧🇩
 - Bhutan 🇧🇹
 - British Indian Ocean Territory 🇮🇴
@@ -158,14 +158,14 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 15th stop: **UTC +5:45**
 ## 🕡 Current UTC time: 6:15 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Nepal 🇳🇵
 
 
 # 🎉 16th stop: **UTC +5:30**
 ## 🕡 Current UTC time: 6:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - India 🇮🇳
 - Sri Lanka 🇱🇰
 
@@ -173,7 +173,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 17th stop: **UTC +5**
 ## 🕖 Current UTC time: 7 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Kyzylorda (Kazakhstan) 🇰🇿
 - Maldives 🇲🇻
 - Pakistan 🇵🇰
@@ -183,17 +183,17 @@ Fasten your seat belts and enjoy the ride!
 - Uzbekistan 🇺🇿
 
 
-# 🎉 18th stop:** UTC +4:30**
+# 🎉 18th stop: **UTC +4:30**
 ## 🕢 Current UTC time: 7:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Afghanistan 🇦🇫
 
 
 # 🎉 19th stop: **UTC +4**
 ## 🕗 Current UTC time: 8 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Armenia 🇦🇲
 - Azerbaijan 🇦🇿
 - Tbilisi (Georgia) 🇬🇪
@@ -205,17 +205,17 @@ Fasten your seat belts and enjoy the ride!
 - United Arab Emirates 🇦🇪
 
 
-# 🎉 20th stop **UTC +3:30**
+# 🎉 20th stop: **UTC +3:30**
 ## 🕣 Current UTC time: 8:30 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Iran 🇮🇷
 
 
 # 🎉 21st stop: **UTC +3**
 ## 🕘 Current UTC time: 9 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Bahrain 🇧🇭
 - Belarus 🇧🇾
 - Comoros 🇰🇲
@@ -243,7 +243,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 22nd stop: **UTC +2**
 ## 🕙 Current UTC time: 10 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Botswana 🇧🇼
 - Bulgaria 🇧🇬
 - Burundi 🇧🇮
@@ -280,7 +280,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 23rd stop: **UTC +1**
 ## 🕚 Current UTC time: 11 PM (December 31)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Albania 🇦🇱
 - Algeria 🇩🇿
 - Andorra 🇦🇩
@@ -328,10 +328,10 @@ Fasten your seat belts and enjoy the ride!
 - Western Sahara 🇪🇭
 
 
-# 🎉 24th stop : **UTC ±0**
+# 🎉 24th stop: **UTC ±0**
 ## 🕛 Current UTC time: 12 MN (January 1)
 
-### 📣 Happy New year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Burkina Faso 🇧🇫
 - Canary Islands 🇮🇨
 - Faroe Islands 🇫🇴
@@ -361,7 +361,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 25th stop: **UTC -1**
 ## 🕐 Current UTC time: 1 AM (January 1)
 
-### 📣 Happy New year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Azores (Portugal) 🇵🇹
 - Cabo Verde 🇨🇻
 - Ittoqqortoormiit (Greenland) 🇬🇱
@@ -370,7 +370,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 26th stop: **UTC -2**
 ## 🕑 Current UTC time: 2 AM (January 1)
 
-### 📣 Happy New year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Fernando de Noronha (Brazil) 🇧🇷
 - South Georgia and the South Sandwich Islands 🇬🇸
 
@@ -378,7 +378,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 27th stop: **UTC -3**
 ## 🕒 Current UTC time: 3 AM (January 1)
 
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Argentina 🇦🇷
 - São Paulo (Brazil) 🇧🇷
 - Santiago (Chile) 🇨🇱
@@ -393,7 +393,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 28th stop: **UTC -3:30**
 ## 🕞 Current UTC time: 3:30 AM (January 1)
  
-### 📣 Happy New year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Newfoundland, St. John's (Canada) 🇨🇦
 - Saint Pierre and Miquelon 🇵🇲
  
@@ -401,7 +401,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 29th stop: **UTC -4**
 ## 🕓 Current UTC time: 4 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Anguilla 🇦🇮
 - Antigua and Barbuda 🇦🇬
 - Aruba 🇦🇼
@@ -436,7 +436,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 30th stop: **UTC -5**
 ## 🕔 Current UTC time: 5 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Rio Branco (Brazil) 🇧🇷
 - Toronto (Canada) 🇨🇦
 - Ontario, Canada 🇨🇦
@@ -453,10 +453,10 @@ Fasten your seat belts and enjoy the ride!
 - Alabama [EST], Connecticut, Delaware, Florida [EST], Georgia, Indiana [EST], Kentucky [EST], Maine, Maryland, Massachusetts, Michigan [EST], New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee [EST], Vermont, Virginia, West Virginia (United States) 🇺🇸
  
  
-# 🎉 31st stop: **UTC-6**
+# 🎉 31st stop: **UTC -6**
 ## 🕕 Current UTC time: 6 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Belize 🇧🇿
 - Winnipeg (Canada) 🇨🇦
 - Costa Rica 🇨🇷
@@ -469,19 +469,19 @@ Fasten your seat belts and enjoy the ride!
 - Alabama [CST], Arkansas, Florida [CST] Illinois, Indiana [CST] Iowa, Kansas [CST], Kentucky [CST], Louisiana, Michigan [CST], Minnesota, Mississippi, Missouri, Nebraska [CST], North Dakota [CST], Oklahoma, South Dakota [CST], Tennessee [CST], Texas [CST], Wisconsin (United States) 🇺🇸
  
  
-# 🎉 32nd stop: **UTC-7**
+# 🎉 32nd stop: **UTC -7**
 ## 🕖 Current UTC time: 7 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - British Columbia [MST], Edmonton (Canada) 🇨🇦
 - Hermosillo (Mexico) 🇲🇽
 - Arizona, Colorado, Idaho [MST], Kansas [MST] Montana, Nebraska [MST], North Dakota [MST] New Mexico, South Dakota [MST], Texas [MST], Utah, Wyoming 🇺🇸
  
  
-# 🎉 33rd stop: **GMT -8**
+# 🎉 33rd stop: **UTC -8**
 ## 🕗 Current UTC time: 8 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - British Columbia [PST], Vancouver (Canada) 🇨🇦
 - Tijuana (Mexico) 🇲🇽
 - Pitcairn Islands 🇵🇳
@@ -491,7 +491,7 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 34th stop: **UTC -9**
 ## 🕘 Current UTC time: 9 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Gambier Islands (French Polynesia) 🇵🇫
 - Alaska [AKST] (United States) 🇺🇸
  
@@ -499,14 +499,14 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 35th stop: **UTC -9:30**
 ## 🕤 Current UTC time: 9:30 AM (January 1)
  
-### 📣 Happy new year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Atuona (French Polynesia) 🇵🇫
  
  
 # 🎉 36th stop: **UTC -10**
 ## 🕙 Current UTC time: 10 AM (January 1)
  
-### 📣 Happy new year to those living in:
+### 📣 Happy New Year to those who live in:
 - Cook Islands 🇨🇰
 - Papeete (French Polynesia) 🇵🇫
 - Alaska [HST], Hawaii (United States) 🇺🇸
@@ -515,16 +515,16 @@ Fasten your seat belts and enjoy the ride!
 # 🎉 37th stop: **UTC -11**
 ## 🕚 Current UTC time: 11 AM (January 1)
  
-### 📣 Happy new year to those living in:
+### 📣 Happy New Year to those who live in:
 - American Samoa 🇦🇸
 - Niue 🇳🇺
 - Midway (U.S. Outlying Islands) 🇺🇸
  
  
-# 🎉 38th stop: **UTC-12**
+# 🎉 38th stop: **UTC -12**
 ## 🕛 Current UTC time: 12 NN (January 1)
  
-### 📣 Happy New year to those who live in:
+### 📣 Happy New Year to those who live in:
 - Baker Island (U.S. Outlying Islands) 🇺🇸
 
 
