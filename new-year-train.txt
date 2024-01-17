@@ -1,5 +1,5 @@
 Data taken from https://time.is/time_zones & https://www.timeanddate.com - there are chances for mistakes but I tried to minimize it by verifying from 2 sources.
-This template works with Discord's markdown, as of 18th Jan 2024.
+This template works with Discord's markdown & text formatting, as of 18th Jan 2024.
 
 
 -=-=-=-
