@@ -4,4 +4,6 @@ JuniperBot and Message Scheduler bot will be used for most of this event, for au
 
 Since the above methods of message scheduling is too expensive to maintain every year, we have decided to use [Telegram](https://augystudios.t.me) to manage this.
 
+Check out the latest releases [here](https://github.com/augy-studios/new-year-train/releases)!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/augystudios)

@@ -1,5 +1,5 @@
-Data taken from https://time.is/time_zones & https://www.timeanddate.com - there are chances for mistakes but I tried to minimize it by verifying from 2 sources.
-This template works with Telegram's text formatting, as of 18th Jan 2024.
+Data taken from https://time.is/time_zones & https://www.timeanddate.com - There are chances for mistakes but I tried to minimize it by verifying from 2 sources.
+This template works with Telegram's text formatting, as of 31st Dec 2024.
 
 
 -=-=-=-
@@ -19,7 +19,7 @@ Fasten your seat belts and enjoy the ride!
 🕥 **Current UTC time:** 10:15 AM (December 31)
 
 📣 **Happy New Year to those who live in:** 
-- Chatham (New Zealand) 🇳🇿
+- Chatham Islands (New Zealand) 🇳🇿
 
 
 🎉 3rd stop: **UTC +13**
@@ -28,7 +28,9 @@ Fasten your seat belts and enjoy the ride!
 📣 **Happy New Year to those who live in:**
 - Auckland & Wellington (New Zealand) 🇳🇿
 - Samoa 🇼🇸
-- Tokelau & Tonga 🇹🇰
+- Tokelau 🇹🇰
+- Tonga 🇹🇴
+- Kanton Island (Kiribati) 🇰🇮
 
 
 🎉 4th stop: **UTC +12**
@@ -42,7 +44,7 @@ Fasten your seat belts and enjoy the ride!
 - Norfolk Island 🇳🇫
 - Petropavlovsk-Kamchatsky (Russia) 🇷🇺
 - Tuvalu 🇹🇻
-- Wake Island (U.S. Outlying Islands) 🇺🇲
+- Wake Island (U.S. Minor Outlying Islands) 🇺🇲
 - Wallis and Futuna 🇼🇫
 
 
@@ -56,6 +58,7 @@ Fasten your seat belts and enjoy the ride!
 - Yuzhno-Sakhalinsk (Russia) 🇷🇺
 - Solomon Islands 🇸🇧
 - Vanuatu 🇻🇺
+- Arawa (Papua New Guinea) 🇵🇬
 
 
 🎉 6th stop: **UTC +10:30**
@@ -73,7 +76,7 @@ Fasten your seat belts and enjoy the ride!
 - Guam 🇬🇺
 - Weno (Micronesia) 🇫🇲
 - North Mariana Islands 🇲🇵
-- Lae & Port Moresby (Papua New Guinea) 🇵🇬
+- Port Moresby (Papua New Guinea) 🇵🇬
 - Vladivostok (Russia) 🇷🇺
 
 
@@ -111,7 +114,7 @@ Fasten your seat belts and enjoy the ride!
 - Brunei 🇧🇳
 - China 🇨🇳
 - Hong Kong 🇭🇰
-- Makassar (Indonesia) 🇮🇩
+- Nusantara (Indonesia) 🇮🇩
 - Macau 🇲🇴
 - Malaysia 🇲🇾
 - Choibalsan (Mongolia) 🇲🇳
@@ -129,7 +132,7 @@ Fasten your seat belts and enjoy the ride!
 - Christmas Island 🇨🇽
 - Jakarta (Indonesia) 🇮🇩
 - Laos 🇱🇦
-- Khovd (Mongolia) 🇲🇳
+- Hovd (Mongolia) 🇲🇳
 - Novosibirsk (Russia) 🇷🇺
 - Thailand 🇹🇭
 - Vietnam 🇻🇳
@@ -150,7 +153,6 @@ Fasten your seat belts and enjoy the ride!
 - Bangladesh 🇧🇩
 - Bhutan 🇧🇹
 - British Indian Ocean Territory 🇮🇴
-- Almaty (Kazakhstan) 🇰🇿
 - Kyrgyzstan 🇰🇬
 - Omsk (Russia) 🇷🇺
 
@@ -174,7 +176,8 @@ Fasten your seat belts and enjoy the ride!
 🕖 **Current UTC time:** 7 PM (December 31)
 
 📣 **Happy New Year to those who live in:**
-- Kyzylorda (Kazakhstan) 🇰🇿
+- Port-aux-Français (France) 🇫🇷
+- Kazakhstan 🇰🇿
 - Maldives 🇲🇻
 - Pakistan 🇵🇰
 - Yekaterinburg (Russia) 🇷🇺
@@ -222,6 +225,7 @@ Fasten your seat belts and enjoy the ride!
 - Djibouti 🇩🇯
 - Eritrea 🇪🇷
 - Ethiopia 🇪🇹
+- Sukhumi (Georgia) 🇬🇪
 - Iraq 🇮🇶
 - Jordan 🇯🇴
 - Kenya 🇰🇪
@@ -232,6 +236,7 @@ Fasten your seat belts and enjoy the ride!
 - Moscow (Russia) 🇷🇺
 - Saudi Arabia 🇸🇦
 - Somalia 🇸🇴
+- Prince Edward Islands (South Africa) 🇿🇦
 - Syria 🇸🇾
 - Tanzania 🇹🇿
 - Turkey 🇹🇷
@@ -247,7 +252,7 @@ Fasten your seat belts and enjoy the ride!
 - Botswana 🇧🇼
 - Bulgaria 🇧🇬
 - Burundi 🇧🇮
-- Kisangani (Congo-Kinshasa) 🇨🇩
+- Lubumbashi (Congo Democratic Republic) 🇨🇩
 - Cyprus 🇨🇾
 - Egypt 🇪🇬
 - Estonia 🇪🇪
@@ -293,6 +298,7 @@ Fasten your seat belts and enjoy the ride!
 - Central African Republic 🇨🇫
 - Chad 🇹🇩
 - Congo-Brazzaville 🇨🇬
+- Kinhasa (Congo Democratic Republic) 🇨🇩
 - Croatia 🇭🇷
 - Czechia 🇨🇿
 - Denmark 🇩🇰
@@ -352,6 +358,7 @@ Fasten your seat belts and enjoy the ride!
 - Saint Helena 🇸🇭
 - Senegal 🇸🇳
 - Sierra Leone 🇸🇱
+- Las Palmas (Spain) 🇪🇸
 - São Tomé and Príncipe 🇸🇹
 - Gambia 🇬🇲
 - Togo 🇹🇬
@@ -362,9 +369,8 @@ Fasten your seat belts and enjoy the ride!
 🕐 **Current UTC time:** 1 AM (January 1)
 
 📣 **Happy New Year to those who live in:**
-- Azores (Portugal) 🇵🇹
+- Ponta Delgada(Portugal) 🇵🇹
 - Cabo Verde 🇨🇻
-- Ittoqqortoormiit (Greenland) 🇬🇱
 
 
 🎉 26th stop: **UTC -2**
@@ -373,6 +379,7 @@ Fasten your seat belts and enjoy the ride!
 📣 **Happy New Year to those who live in:**
 - Fernando de Noronha (Brazil) 🇧🇷
 - South Georgia and the South Sandwich Islands 🇬🇸
+- Nuuk (Greenland) 🇬🇱
 
 
 🎉 27th stop: **UTC -3**
@@ -395,7 +402,6 @@ Fasten your seat belts and enjoy the ride!
  
 📣 **Happy New Year to those who live in:**
 - Newfoundland, St. John's (Canada) 🇨🇦
-- Saint Pierre and Miquelon 🇵🇲
  
  
 🎉 29th stop: **UTC -4**
@@ -439,12 +445,11 @@ Fasten your seat belts and enjoy the ride!
 📣 **Happy New Year to those who live in:**
 - Rio Branco (Brazil) 🇧🇷
 - Toronto (Canada) 🇨🇦
-- Ontario, Canada 🇨🇦
 - Cayman Islands 🇰🇾
 - Easter Island (Chile) 🇨🇱
 - Colombia 🇨🇴
 - Cuba 🇨🇺
-- Quito, Ecuador 🇪🇨
+- Quito (Ecuador) 🇪🇨
 - Cancún (Mexico) 🇲🇽
 - Panama 🇵🇦
 - Peru 🇵🇪
@@ -500,7 +505,7 @@ Fasten your seat belts and enjoy the ride!
 🕤 **Current UTC time:** 9:30 AM (January 1)
  
 📣 **Happy New Year to those who live in:**
-- Atuona (French Polynesia) 🇵🇫
+- Taiohae (French Polynesia) 🇵🇫
  
  
 🎉 36th stop: **UTC -10**
@@ -510,6 +515,7 @@ Fasten your seat belts and enjoy the ride!
 - Cook Islands 🇨🇰
 - Papeete (French Polynesia) 🇵🇫
 - Alaska [HST], Hawaii (United States) 🇺🇸
+- Johnson Atoll (U.S. Minor Outlying Islands) 🇺🇸
  
  
 🎉 37th stop: **UTC -11**
@@ -518,18 +524,18 @@ Fasten your seat belts and enjoy the ride!
 📣 **Happy New Year to those who live in:**
 - American Samoa 🇦🇸
 - Niue 🇳🇺
-- Midway (U.S. Outlying Islands) 🇺🇸
+- Midway (U.S. Minor Outlying Islands) 🇺🇸
  
  
 🎉 38th stop: **UTC -12**
 🕛 **Current UTC time:** 12 NN (January 1)
  
 📣 **Happy New Year to those who live in:**
-- Baker Island (U.S. Outlying Islands) 🇺🇸
+- Baker Island (U.S. Minor Outlying Islands) 🇺🇸
 
 
 -=-=-=-
 The New Year Train has arrived at the terminal station.
-Thank you for taking the train, and we will maybe see you again next year.
+Thank you for taking the train, and we will see you again next year.
 
 Don't forget to take all of your bags, snacks and belongings! 🥳
