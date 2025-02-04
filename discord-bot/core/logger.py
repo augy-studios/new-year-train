@@ -7,7 +7,7 @@ load_dotenv("token.env")
 LOG_GUILD_ID = int(os.getenv("LOG_GUILD_ID"))
 LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID"))
 
-async def log_action(bot, message):
+async def log_action(bot, interaction):
     guild = bot.get_guild(LOG_GUILD_ID)
     if guild is None:
         print("Log guild not found.")
@@ -19,17 +19,12 @@ async def log_action(bot, message):
         return
 
     embed = discord.Embed(
-        title="New Message Logged",
-        description=f"[Message Link](https://discord.com/channels/{message.guild.id}/{message.channel.id}/{message.id})",
-        color=discord.Color.blue(),
+        title="Message Log",
+        description=f"Command: {interaction.command.name} | [Message Link](https://discord.com/channels/{interaction.guild.id}/{interaction.channel.id}/{interaction.id})",
+        color=discord.Color(0x99ff99),
     )
-    embed.add_field(name="Author", value=f"{message.author} (ID: {message.author.id})", inline=True)
-    embed.add_field(name="Server", value=f"{message.guild.name} (ID: {message.guild.id})", inline=True)
-    embed.add_field(name="Channel", value=f"{message.channel.name} (ID: {message.channel.id})", inline=True)
-    embed.add_field(name="Content", value=message.content or "No content", inline=False)
-    
-    if message.attachments:
-        attachments = "\n".join([attachment.url for attachment in message.attachments])
-        embed.add_field(name="Attachments", value=attachments, inline=False)
+    embed.add_field(name="User", value=f"{interaction.user} (ID: {interaction.user.id})", inline=True)
+    embed.add_field(name="Server", value=f"{interaction.guild.name} (ID: {interaction.guild.id})", inline=True)
+    embed.add_field(name="Channel", value=f"{interaction.channel.name} (ID: {interaction.channel.id})", inline=True)
 
     await log_channel.send(embed=embed)
