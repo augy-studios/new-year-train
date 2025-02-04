@@ -1,12 +1,19 @@
+import os
 import discord
+from dotenv import load_dotenv
 
-async def log_action(bot, message, log_guild_id, log_channel_id):
-    guild = bot.get_guild(log_guild_id)
+# Load environment variables from token.env
+load_dotenv("token.env")
+LOG_GUILD_ID = int(os.getenv("LOG_GUILD_ID"))
+LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID"))
+
+async def log_action(bot, message):
+    guild = bot.get_guild(LOG_GUILD_ID)
     if guild is None:
         print("Log guild not found.")
         return
 
-    log_channel = guild.get_channel(log_channel_id)
+    log_channel = guild.get_channel(LOG_CHANNEL_ID)
     if log_channel is None:
         print("Log channel not found.")
         return
@@ -22,7 +29,7 @@ async def log_action(bot, message, log_guild_id, log_channel_id):
     embed.add_field(name="Content", value=message.content or "No content", inline=False)
     
     if message.attachments:
-        attachment_links = "\n".join(attachment.url for attachment in message.attachments)
-        embed.add_field(name="Attachments", value=attachment_links, inline=False)
+        attachments = "\n".join([attachment.url for attachment in message.attachments])
+        embed.add_field(name="Attachments", value=attachments, inline=False)
 
     await log_channel.send(embed=embed)
