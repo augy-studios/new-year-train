@@ -2,6 +2,7 @@ import os
 from dotenv import load_dotenv
 import discord
 from discord.ext import commands
+from core.logger import setup_error_handling
 
 # Load token from token.env
 load_dotenv("token.env")
@@ -29,6 +30,9 @@ async def on_ready():
     await load_cogs()
     await bot.tree.sync()  # Sync commands with Discord
     print(f'Logged in as {bot.user} (ID: {bot.user.id})')
+
+# Initialize error handling
+setup_error_handling(bot)
 
 # Run the bot
 bot.run(TOKEN)
