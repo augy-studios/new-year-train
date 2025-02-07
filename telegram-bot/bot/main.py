@@ -19,10 +19,6 @@ class NewYearTrainBot:
         # Register event handler for new messages
         @self.client.on(events.NewMessage)
         async def message_handler(event):
-            # Ignore messages from the logging channel
-            if event.chat_id == self.log_channel_id:
-                return  # Skip processing this message
-
             # 1) Log the event
             await log_event(event, self.client, self.log_channel_id)
             

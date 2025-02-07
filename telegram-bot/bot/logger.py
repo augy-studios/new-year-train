@@ -2,7 +2,7 @@ from telethon import events, TelegramClient
 
 async def log_event(event: events.NewMessage.Event, client: TelegramClient, log_channel_id: int):
     """
-    Logs the details of an incoming message or command to the specified log channel, quoting the original message.
+    Logs the details of an incoming message or command to the specified log channel.
     """
     # Basic info from the event
     sender = await event.get_sender()
@@ -25,6 +25,9 @@ async def log_event(event: events.NewMessage.Event, client: TelegramClient, log_
         # Fallback: no direct link available
         message_link = "No link"
     
+    if chat_id == log_channel_id:
+        return  # Skip logging messages from the log channel
+    
     # Check if there are attachments (photos, documents, etc.)
     attachment_info = "Yes (media attached)" if event.message.media else "No"
     
@@ -37,16 +40,14 @@ async def log_event(event: events.NewMessage.Event, client: TelegramClient, log_
         f"**Message ID:** {event.message.id}\n"
         f"**Message Link:** {message_link}\n"
         f"**Has Attachment?:** {attachment_info}\n"
-        f"**Content:** {message_text}"
+        f"**Content:** ```{message_text}```"
     )
     
     try:
-        log_entity = await client.get_input_entity(log_channel_id)
-        await client.send_message(
-            log_entity, 
-            log_text, 
-            link_preview=False, 
-            reply_to=event.message.id  # Quote the original message
-        )
+        # Properly resolve the entity
+        await client.send_message(log_channel_id, log_text, link_preview=True)
+        print(f"Logging from Channel ID: {chat_id}")
+        print(f"Logging to Channel ID: {log_channel_id}")
+        print(f"---")
     except Exception as e:
         print(f"Failed to send log message: {e}")
