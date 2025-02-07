@@ -11,15 +11,15 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 if not TOKEN:
     raise ValueError("Missing DISCORD_TOKEN in token.env")
 
-# Define bot with command prefix
+# Define bot with AutoShardedBot
 intents = discord.Intents.default()
 intents.message_content = True  # Enable message content intent if needed
-bot = commands.Bot(command_prefix="!", intents=intents)
+bot = commands.AutoShardedBot(command_prefix="!", intents=intents)
 
 # Function to update the activity
 async def update_activity():
     num_guilds = len(bot.guilds)
-    activity = discord.Activity(type=discord.ActivityType.watching, name=f"over {num_guilds} servers")
+    activity = discord.Activity(type=discord.ActivityType.watching, name=f"over {num_guilds} server(s) & {bot.shard_count} shard(s)")
     await bot.change_presence(activity=activity)
 
 # Load cogs
@@ -34,7 +34,7 @@ async def on_ready():
     await load_cogs()
     await bot.tree.sync()  # Sync commands with Discord
     await update_activity()  # Update the status on startup
-    print(f'Logged in as {bot.user} (ID: {bot.user.id})')
+    print(f"Logged in as {bot.user} (ID: {bot.user.id}) with {bot.shard_count} shard(s)")
 
 # Update activity whenever the bot joins a new guild
 @bot.event
