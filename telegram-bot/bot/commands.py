@@ -20,27 +20,36 @@ async def handle_command(command: str, event, client):
 
 async def command_start(event, client):
     """
-    Example /start command.
+    /start command.
     """
     await event.reply("Hello! I am NewYearTrain Bot. Type /help to see what I can do.")
 
 async def command_help(event, client):
     """
-    Example /help command.
+    /help command.
+    Sends the list of commands. Extra commands shown to the bot owner.
     """
-    help_text = (
-        "Available Commands:\n"
-        "/start - Greet the user.\n"
-        "/help - Show this help message.\n"
-        "/ping - Check the bot's latency.\n"
-        "/dm <user_id/username> <message> - Send a private message to another user (Owner only).\n"
-        "/broadcast <message> - Send a message to all users who interacted with the bot (Owner only).\n"
-    )
+    if event.sender_id == BOT_OWNER_ID:
+        help_text = (
+            "Available Commands:\n"
+            "/start - Greet the user.\n"
+            "/help - Show this help message.\n"
+            "/ping - Check the bot's latency.\n"
+            "/dm <user_id/username> <message> - Send a private message to another user (Owner only).\n"
+            "/broadcast <message> - Send a message to all users who interacted with the bot (Owner only).\n"
+        )
+    else:
+        help_text = (
+            "Available Commands:\n"
+            "/start - Greet the user.\n"
+            "/help - Show this help message.\n"
+            "/ping - Check the bot's latency.\n"
+        )
     await event.reply(help_text)
 
 async def command_ping(event, client):
     """
-    Example /ping command to check latency (ping).
+    /ping command to check latency (ping).
     """
     start_time = time.time()
     message = await event.reply("Pong!")

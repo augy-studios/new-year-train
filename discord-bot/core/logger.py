@@ -9,25 +9,34 @@ LOG_GUILD_ID = int(os.getenv("LOG_GUILD_ID"))
 LOG_CHANNEL_ID = int(os.getenv("LOG_CHANNEL_ID"))
 
 async def log_action(bot, interaction):
-    guild = bot.get_guild(LOG_GUILD_ID)
+    guild = interaction.guild
+    channel = interaction.channel
+
+    # Determine if it's a DM or Guild-based interaction
+    location = f"DM with {interaction.user}" if guild is None else f"{guild.name} (ID: {guild.id})"
+    
+    # Fetch the logging guild and channel
+    log_guild = bot.get_guild(LOG_GUILD_ID)
     if guild is None:
         print("Log guild not found.")
         return
 
-    log_channel = guild.get_channel(LOG_CHANNEL_ID)
+    log_channel = log_guild.get_channel(LOG_CHANNEL_ID)
     if log_channel is None:
         print("Log channel not found.")
         return
 
+    # Create an embed for logging
     embed = discord.Embed(
         title="Message Log",
         description=f"Command: {interaction.command.name} | [Message Link](https://discord.com/channels/{interaction.guild.id}/{interaction.channel.id}/{interaction.id})",
         color=discord.Color(0x99ff99),
     )
     embed.add_field(name="User", value=f"{interaction.user} (ID: {interaction.user.id})", inline=True)
-    embed.add_field(name="Server", value=f"{interaction.guild.name} (ID: {interaction.guild.id})", inline=True)
-    embed.add_field(name="Channel", value=f"{interaction.channel.name} (ID: {interaction.channel.id})", inline=True)
-
+    embed.add_field(name="Server", value=location, inline=True)
+    # If a channel exists (non-DM), include the channel info
+    if channel:
+        embed.add_field(name="Channel", value=f"{channel.name} (ID: {channel.id})", inline=True)
     await log_channel.send(embed=embed)
 
 async def log_error(bot, interaction, error):
