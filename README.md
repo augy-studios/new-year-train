@@ -8,8 +8,9 @@ Communities like [Rolling Lounge](https://discord.gg/rolling-lounge-400983101507
 
 Check out the latest releases [here](https://github.com/augy-studios/new-year-train/releases)!
 
-Buy me a coffee!
-https://donate.stripe.com/28o2akeAr3hv0DK6oo
+---
+
+[Buy Augy a Coffee](https://donate.stripe.com/28o2akeAr3hv0DK6oo) or [Support Augy Monthly](https://donate.stripe.com/6oEbKUdwn9FTgCI7st)!
 
 ### Coming Soon!
 - A PWA website, dashboard, Telegram bot, Discord bot, and many more are in the works!
